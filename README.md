@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📫 How to reach me **setha@squashed.me**
+- 📫 How to reach me **gerald@decoded.ltd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
